@@ -3,7 +3,7 @@
 
 This is a flutter app that plays Xylophone sounds. For every Beethoven out there, this will let you unleash your musical talent where ever you are. 
 
-<img src="https://github.com/Adarsh9616/Xylophone_App_Using_Flutter/blob/new/Screenshot_1593967905.png" width="100" height="100">
+<img src="https://github.com/Adarsh9616/Xylophone_App_Using_Flutter/blob/new/Screenshot_1593967905.png" width="500" height="800">
 
 ## What I have learned till now.
 
